@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.icici</groupId>
 	<artifactId>devops-demo-icici</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1.0</version>
+	<packaging>jar</packaging>
 	<name>devops-demo-icici</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
